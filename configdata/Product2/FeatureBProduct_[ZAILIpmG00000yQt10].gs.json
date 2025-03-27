@@ -6,6 +6,8 @@
     "ExternalId": "",
     "Extras__c": "false",
     "Family": "",
+    "FeatureA1__c": "false",
+    "FeatureA__c": "false",
     "GearsetDisplayName": "FeatureBProduct",
     "GearsetExternalId__c": "ZAILIpmG00000yQt10",
     "IsActive": "false",
