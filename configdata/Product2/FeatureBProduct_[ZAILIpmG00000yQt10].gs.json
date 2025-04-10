@@ -1,11 +1,14 @@
 {
   "Object": "Product2",
   "Fields": {
+    "AACheckbox__c": "false",
     "Description": "",
     "DisplayUrl": "",
     "ExternalId": "",
     "Extras__c": "false",
     "Family": "",
+    "FeatureA1__c": "false",
+    "FeatureA__c": "false",
     "GearsetDisplayName": "FeatureBProduct",
     "GearsetExternalId__c": "ZAILIpmG00000yQt10",
     "IsActive": "false",
