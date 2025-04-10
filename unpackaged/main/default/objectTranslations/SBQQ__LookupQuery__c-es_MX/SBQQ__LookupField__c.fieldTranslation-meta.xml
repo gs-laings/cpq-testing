@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help>Nombre de API del campo personalizado empleado en la consulta.</help>
+        <label><!-- Lookup Field --></label>
+        <name>SBQQ__LookupField__c</name>
+        <picklistValues>
+            <masterLabel>IPIndustry__c</masterLabel>
+            <translation><!-- IPIndustry__c --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IPProduct__c</masterLabel>
+            <translation><!-- IPProduct__c --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IPSLA__c</masterLabel>
+            <translation><!-- IPSLA__c --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OLCountry__c</masterLabel>
+            <translation><!-- OLCountry__c --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SBQQ__Category__c</masterLabel>
+            <translation>SBQQ__Category__c</translation>
+        </picklistValues>
+    </CustomFieldTranslation>
