@@ -1,6 +1,8 @@
 {
   "Object": "Product2",
   "Fields": {
+    "ABCheckbox__c": "false",
+    "ACCheckbox__c": "false",
     "Description": "",
     "DisplayUrl": "",
     "ExternalId": "",
