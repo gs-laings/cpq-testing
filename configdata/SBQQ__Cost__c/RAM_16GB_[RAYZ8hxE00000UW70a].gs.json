@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "RAM 16GB",
+    "GearsetExternalId__c": "RAYZ8hxE00000UW70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "125.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "1AYNYlZC00000UWt10"
+      }
+    }
+  ]
+}

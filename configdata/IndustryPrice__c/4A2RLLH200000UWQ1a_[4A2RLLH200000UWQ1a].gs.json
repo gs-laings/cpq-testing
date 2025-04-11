@@ -1,0 +1,19 @@
+{
+  "Object": "IndustryPrice__c",
+  "Fields": {
+    "GearsetDisplayName": "4A2RLLH200000UWQ1a",
+    "GearsetExternalId__c": "4A2RLLH200000UWQ1a",
+    "IPIndustry__c": "Education",
+    "IPPrice__c": "490.0",
+    "IPSLA__c": "Bronze"
+  },
+  "References": [
+    {
+      "Name": "IPProduct__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "LAYkYlZC00000UWt10"
+      }
+    }
+  ]
+}

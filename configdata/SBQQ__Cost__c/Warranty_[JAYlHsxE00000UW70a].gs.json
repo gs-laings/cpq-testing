@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "Warranty",
+    "GearsetExternalId__c": "JAYlHsxE00000UW70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "1.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "DAYaalZC00000UWt10"
+      }
+    }
+  ]
+}

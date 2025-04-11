@@ -1,0 +1,19 @@
+{
+  "Object": "IndustryPrice__c",
+  "Fields": {
+    "GearsetDisplayName": "4A2ULLH200000UWQ1a",
+    "GearsetExternalId__c": "4A2ULLH200000UWQ1a",
+    "IPIndustry__c": "Healthcare",
+    "IPPrice__c": "535.0",
+    "IPSLA__c": "Gold"
+  },
+  "References": [
+    {
+      "Name": "IPProduct__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "LAYlYlZC00000UWt10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "USB-C Charge Cable 2m",
+    "GearsetExternalId__c": "RAYK8hxE00000UW70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "10.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "1AYZZlZC00000UWt10"
+      }
+    }
+  ]
+}

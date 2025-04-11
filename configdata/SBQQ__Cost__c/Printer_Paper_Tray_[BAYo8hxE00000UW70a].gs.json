@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "Printer Paper Tray",
+    "GearsetExternalId__c": "BAYo8hxE00000UW70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "30.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "DAY0alZC00000UWt10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "Smartphone Case",
+    "GearsetExternalId__c": "BAYb8hxE00000UW70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "5.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "LAYoZlZC00000UWt10"
+      }
+    }
+  ]
+}

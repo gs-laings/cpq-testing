@@ -1,0 +1,22 @@
+{
+  "Object": "ConsumptionRate",
+  "Fields": {
+    "Description": "",
+    "GearsetDisplayName": "Talk - 301 - 0.1",
+    "GearsetExternalId__c": "MA09ZZ3000000UWoM0",
+    "LowerBound": "301",
+    "Price": "0.1",
+    "PricingMethod": "PerUnit",
+    "ProcessingOrder": "2",
+    "UpperBound": ""
+  },
+  "References": [
+    {
+      "Name": "ConsumptionSchedule",
+      "ReferencedObject": "ConsumptionSchedule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EA0n6Y3000000UWhM0"
+      }
+    }
+  ]
+}

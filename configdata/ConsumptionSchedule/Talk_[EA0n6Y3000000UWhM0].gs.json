@@ -1,0 +1,18 @@
+{
+  "Object": "ConsumptionSchedule",
+  "Fields": {
+    "BillingTerm": "1",
+    "BillingTermUnit": "Month",
+    "Description": "",
+    "GearsetDisplayName": "Talk",
+    "GearsetExternalId__c": "EA0n6Y3000000UWhM0",
+    "IsActive": "true",
+    "MatchingAttribute": "",
+    "Name": "Talk",
+    "RatingMethod": "Tier",
+    "SBQQ__Category__c": "Rates",
+    "Type": "Slab",
+    "UnitOfMeasure": "Minutes"
+  },
+  "References": []
+}
